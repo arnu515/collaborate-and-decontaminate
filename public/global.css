@@ -1,0 +1,19 @@
+body {
+    font-size: 16px;
+}
+
+label {
+    display: block;
+    font: inherit;
+}
+
+input {
+    width: 100%;
+    box-sizing: border-box;
+    background-color: white;
+    color: black;
+    border: 1px black solid;
+    padding: 4px 6px;
+    border-radius: 0.4rem;
+    font: inherit;
+}
